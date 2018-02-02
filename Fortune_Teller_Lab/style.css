@@ -1,0 +1,23 @@
+#fortune{
+  position: fixed;
+  top: 55%;
+  left: 50%;
+  height: 500px;
+  width: 300px;
+  margin-top: -250px;
+  margin-left: -150px;
+}
+#message{
+  color: white;
+  text-align: center;
+  position: fixed;
+  height: 200px;
+  width: 300px;
+  top: 3%;
+  left: 50%;
+  margin-left: -150px;
+  margin-bottom: 10px;
+}
+html{
+  background-color: black;
+}
