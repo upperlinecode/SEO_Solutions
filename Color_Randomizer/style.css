@@ -1,0 +1,14 @@
+#color{
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 50%;
+  margin-left: -100px;
+  top: 15%;
+  border: solid thin black;
+}
+
+#text{
+  text-align: center;
+
+}
