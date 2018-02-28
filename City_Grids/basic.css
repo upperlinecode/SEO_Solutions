@@ -1,0 +1,20 @@
+
+.res{
+  background-color: #a68ed4;
+}
+.park{
+  background-color: #9DC183;
+}
+.shop{
+  background-color: #ffc0db;
+}
+.prof{
+  background-color: grey;
+}
+.transp{
+  background: #add8e6;
+}
+.b{
+  min-width: 100px;
+  min-height: 100px;
+}

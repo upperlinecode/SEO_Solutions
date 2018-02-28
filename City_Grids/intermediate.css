@@ -1,0 +1,20 @@
+.b{
+  min-width: 100px;
+  min-height: 100px;
+}
+
+.shop{
+  background-color: #ffc0db;
+  grid-column: span 2;
+}
+.container {
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: repeat(auto-fill, minmax(100px,1fr));
+    grid-auto-rows: 100px
+}
+
+.parking{
+  background-color: black;
+  grid-row: span 2;
+}
